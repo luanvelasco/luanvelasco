@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @luanvelasco - electronics engineer and post graduate in software engineering!
+- 🌱 I’m currently learning JAVA + frameworks
